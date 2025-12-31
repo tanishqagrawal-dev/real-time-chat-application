@@ -19,13 +19,13 @@ A modern and responsive chat application built entirely with **HTML, CSS, and Ja
 ---
 
 ### **Live Demo**  
-[**Open Real-Time Chat Application**](https://tanishq-124.github.io/real-time-chat-application/)  
+[**Open Real-Time Chat Application**](https://tanishqagrawal-dev.github.io/real-time-chat-application/)  
 
 ---
 
 ### **Developer**  
 Created by **Tanishq Agrawal**  
-- [**GitHub**](https://github.com/tanishq-124)  
+- [**GitHub**](https://github.com/tanishqagrawal-dev)  
 - [**LinkedIn**](https://www.linkedin.com/in/tanishq-agrawal-91a505335)  
 
 ---
@@ -54,7 +54,7 @@ Created by **Tanishq Agrawal**
 ---
 
 ## **How to Use (Live Demo)**  
-1. Open the [Live Demo](https://tanishq-124.github.io/real-time-chat-application/).  
+1. Open the [Live Demo](https://tanishqagrawal-dev.github.io/real-time-chat-application/).  
 2. Select a user from the sidebar to start chatting.  
 3. Type messages, use emojis, and send.  
 4. View simulated replies and animated typing indicators.  
